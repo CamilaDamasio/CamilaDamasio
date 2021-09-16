@@ -1,9 +1,22 @@
+<a href="https://github.com/CamilaDamasio" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a> 
+<a href="https://www.instagram.com/camiladamasioef/" target="_blank">
+  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
+</a>
+<a href="https://www.linkedin.com/in/camilasdamasio/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
+
+<br />
+
 ### Olá! Eu sou a Camila Damásio 👋
 
 
 - 🔭 Desenvolvedora front-end (open to work!)
 - 🌱 Estudando back-end
 - 😄 Pronouns: ela/dela
+- Este é meu e-mail: camiladamasioef@hotmail.com
 
 <div>
   <a href="https://github.com/CamilaDamasio">
@@ -20,10 +33,10 @@
   ##
  
 <div>
-  <a href="https://instagram.com/camiladamasioef" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<!--   <a href="https://instagram.com/camiladamasioef" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:camiladamasioef@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href = "mailto:camiladamasioef@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/camilasdamasio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/camilasdamasio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
  
   ![Snake animation](https://github.com/CamilaDamasio/CamilaDamasio/blob/output/github-contribution-grid-snake.svg)
  
