@@ -1,29 +1,55 @@
 <a href="https://github.com/CamilaDamasio" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a> 
-<a href="https://www.instagram.com/camiladamasioef/" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a>
-<a href="https://www.linkedin.com/in/camilasdamasio/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+  <img align="left" width="48px" height="48px" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png">
 </a>
 
-<br />
+<a href="https://www.instagram.com/camiladamasioef/" target="_blank">
+  <img align="left" width="48px" height="48px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png">
+</a>
+  
+<a href="https://www.linkedin.com/in/camilasdamasio/" target="_blank">
+  <img align="left" width="48px" height="48px" src="https://i.ibb.co/Kx2GSrT/linkedin.png">
+</a>
+
+</br>
+
+</br>
 
 ### Olá! Eu sou a Camila Damásio 👋
 
+</br>
+
+<img align="right" width="350px" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
+
 
 - 🔭 Desenvolvedora front-end (open to work!)
-- 🌱 Estudando back-end
-- 😄 Pronouns: ela/dela
-- E-mail: camiladamasioef@hotmail.com
+</br>
 
-<div>
+- 🌱 Estudando back-end
+</br>
+
+- 😄 Pronouns: ela/dela
+
+</br>
+
+##
+
+#### E-mail:
+
+##### camiladamasioef@hotmail.com
+
+##
+
+</br>
+
+<div align="center">
   <a href="https://github.com/CamilaDamasio">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CamilaDamasio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaDamasio&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CamilaDamasio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaDamasio&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div style="display: inline_block"><br>
+  
+</br>
+
+<div style="display: inline_block" align="center">
   <img align="center" alt="Camila-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Camila-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Camila-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -35,10 +61,6 @@
   ##
  
 <div>
-<!--   <a href="https://instagram.com/camiladamasioef" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:camiladamasioef@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href = "mailto:camiladamasioef@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/camilasdamasio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
  
   ![Snake animation](https://github.com/CamilaDamasio/CamilaDamasio/blob/output/github-contribution-grid-snake.svg)
  
