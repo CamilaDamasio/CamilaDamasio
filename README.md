@@ -21,7 +21,7 @@
 <img align="right" width="350px" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif">
 
 
-- 🔭 Desenvolvedora Full-Stack com foco em Front-End
+- 🔭 Desenvolvedora Full-Stack
 </br>
 
 - 😄 Pronouns: ela/dela
